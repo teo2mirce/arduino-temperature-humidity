@@ -13,7 +13,9 @@ https://www.tme.eu/ro/details/oky3071/senzori-de-mediu/okystar/
 
 
 
-Tutorial:
+Tutorials:
 
 
 https://www.tme.eu/ro/news/library-articles/page/43720/Arduino-in-practica-partea-1-operarea-modulului-de-afiare/
+
+https://circuitdigest.com/microcontroller-projects/interfacing-16x2-lcd-with-esp32-using-i2c
